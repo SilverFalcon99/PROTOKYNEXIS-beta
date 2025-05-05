@@ -6,3 +6,5 @@ Key:
 
 
 [ ] Make movement follow simulated path for smoother graphics
+[-] Create first release batch
+    -- Will include Standard, LTS (Long-term stable, Beta (Early Updates)
