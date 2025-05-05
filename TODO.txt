@@ -1,0 +1,8 @@
+Key:
+[ ] Unfinished
+[-] In Progress, Incomplete
+[S] Incomplete, Suspended
+[x] Complete
+
+
+[ ] Make movement follow simulated path for smoother graphics
